@@ -1,0 +1,66 @@
+$theme-colors: (
+    "primary": $purple,
+    "danger": #ff4136
+  );
+
+h1{
+    font-weight: 300;
+    font-size: 3rem;
+}
+h2{
+    font-weight: 300;
+    
+}
+h3{
+    font-weight:300;
+}
+#copertina{
+    background-image: url('../img/pexels-aleksandar-pasaric-325185.jpg');
+    background-position: center;
+    background-size: cover;
+    height:200px;
+}
+#contenitore_carosello{
+    height:300px;
+}
+
+#nav{
+    background-color: $purple;
+    i{
+        font-size: 1.3rem;
+    }
+    .navbar-brand{
+        color:white;
+    }
+    .active{
+        color:white;
+    }
+    ul{
+        a{
+            color:red;
+        }
+    }
+    button{
+       span{
+        color:red;
+       }
+    }
+    
+}
+main{
+    i{
+        font-size: 3rem;
+    }
+    button{
+        background-color: $purple;
+        color:white;
+    }
+    #tessere{
+        background-color: #f5f5f5;
+    }
+
+}
+footer{
+    background-color: $purple;
+    color:white;
+}
