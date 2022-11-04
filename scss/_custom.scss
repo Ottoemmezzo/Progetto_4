@@ -12,10 +12,12 @@ h3{
 }
 #copertina{
     background-image: url('../img/pexels-aleksandar-pasaric-325185.jpg');
-    /*background-position: center;
-    background-size: cover;*/
-    background-position-y: -300px;
-    padding: 2em 2em 15em 2em;
+    background-position: center;
+    background-size: cover;
+    margin-top:60px;
+    // background-position-y: -300px;
+    //padding: 2em 2em 15em 2em;
+    padding-bottom:50px; 
    
 }
 #contenitore_carosello{
