@@ -1,14 +1,6 @@
 
-h1{
+h1,h2,h3{
     font-weight: 300;
-    
-}
-h2{
-    font-weight: 300;
-    
-}
-h3{
-    font-weight:300;
 }
 #copertina{
     background-image: url('../img/pexels-aleksandar-pasaric-325185.jpg');
@@ -21,7 +13,8 @@ h3{
    
 }
 #contenitore_carosello{
-    height:300px;
+    //height:300px;
+    padding-bottom: 50px;
 }
 
 #nav{
