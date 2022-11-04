@@ -10974,8 +10974,8 @@ h3, .h3 {
 #nav ul a {
   color: red;
 }
-#nav button span {
-  color: red;
+#nav ul a:hover {
+  color: white;
 }
 
 main i {
